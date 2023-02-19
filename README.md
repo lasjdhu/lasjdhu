@@ -4,9 +4,11 @@
 
 ### My stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&layout=compact&theme=transparent&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
+### Most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&hide=jupyter%20notebook,makefile,shell&card_width=400&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Check out my web page:
 
