@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Dmitrii <br/> I am a Information Technology student at Brno University of Technologies
+## My name is Dmitrii <br/> I am a student at Brno University of Technologies <br/> 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
