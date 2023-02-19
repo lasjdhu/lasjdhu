@@ -1,4 +1,7 @@
-<h1> Hi there 👋 </h1>
+# Hi there 👋
+
+## My name is Dmitrii
+## I am a Information Technology student at Brno University of Technologies
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
