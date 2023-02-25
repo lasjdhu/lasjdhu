@@ -8,7 +8,11 @@
 
 ### 💬 Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&hide=jupyter%20notebook,makefile,shell&card_width=400&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&hide=jupyter%20notebook,makefile,shell&card_width=450&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔭 I’m currently working on Web application as React front-end developer:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/re-roll/re-roll-react)
 
 ### 😄 Check out my web page:
 
