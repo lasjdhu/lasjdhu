@@ -12,7 +12,7 @@
 
 ### 🔭 I’m currently working on Web application as React front-end developer:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/re-roll/re-roll-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/AalleexxFfrr/patricia)
 
 ### 😄 Check out my web page:
 
