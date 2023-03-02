@@ -1,6 +1,6 @@
 ### Hi there 👋 <br/>
 
-### My name is Dmitrii <br/>I am a student at Brno University of Technologies</p>
+### My name is Dmitrii<br/>I am a student at Brno University of Technologies</p>
 
 ### 🤔 My stats:
 
@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-roll&hide=jupyter%20notebook,makefile,shell&card_width=450&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I’m currently working on Web application as React front-end developer:
+### 🔭 I’m currently working on web application as a<br/>React front-end and Node.js back-end developer:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/AalleexxFfrr/patricia)
 
