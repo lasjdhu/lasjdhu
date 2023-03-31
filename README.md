@@ -6,7 +6,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&hide_title=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I’m currently working on web application as a<br/>React front-end and Node.js back-end developer:
+### 🔭 I’m currently working on web application as a<br/>React front-end developer and DevOps engineer:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/AalleexxFfrr/patricia)
 
