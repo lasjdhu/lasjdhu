@@ -8,7 +8,7 @@
 
 ### 🔭 I’m currently working on web application as a<br/>React front-end developer and DevOps engineer:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/AalleexxFfrr/patricia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AalleexxFfrr&repo=patricia&theme=transparent)](https://github.com/Pepperay/patricia)
 
 ### 😄 Check out my web page:
 
