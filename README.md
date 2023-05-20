@@ -10,10 +10,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pepperay&repo=patricia&theme=transparent)](https://github.com/Pepperay/patricia)
 
-### 😄 Check out my web page:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=re-roll&repo=re-roll-react&theme=transparent)](https://github.com/re-roll/re-roll-react)
-
 <!--
 **re-roll/re-roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
