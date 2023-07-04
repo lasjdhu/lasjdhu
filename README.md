@@ -6,7 +6,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&hide_title=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I’m currently working on open-source tool for sharing compiling resources
+### 🔭 I’m currently working on an open source tool for sharing compilation resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=dist-compile&theme=transparent)](https://github.com/cheloved/dist-compile)
 
 <!--
