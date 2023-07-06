@@ -4,7 +4,14 @@
 
 ### 🤔 My stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=re-roll&hide_title=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=re-roll&theme=transparent" alt="re-roll" />
+</a>
+
+<p></p>
 
 ### 🔭 I’m currently working on an open source tool for sharing compilation resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=dist-compile&theme=transparent)](https://github.com/cheloved/dist-compile)
