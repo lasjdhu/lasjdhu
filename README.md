@@ -5,10 +5,10 @@
 ### 🤔 My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=re-roll&theme=transparent&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=re-roll&theme=transparent" alt="re-roll" />
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=re-roll&theme=transparent" />
 </a>
 
 <p></p>
