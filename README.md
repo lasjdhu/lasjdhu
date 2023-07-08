@@ -13,7 +13,7 @@
 
 <p></p>
 
-### 🔭 I’m currently working on an open source dynamic hub of hosts for a better configuration of `distcc` utility
+### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>for a better configuration of `distcc` smart distributor of compiling tasks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=dist-compile&theme=transparent)](https://github.com/cheloved/dist-compile)
 
 <!--
