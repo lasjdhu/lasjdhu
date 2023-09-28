@@ -5,7 +5,7 @@
 ### 🤔 My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&include_all_commits=true" />
 </a>
 
 ### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>for a better configuration of `distcc` smart distributor of compiling tasks
