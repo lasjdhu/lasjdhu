@@ -9,7 +9,7 @@
 </a>
 
 ### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>for a better configuration of `distcc` smart distributor of compiling tasks
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=dist-compile&theme=transparent)](https://github.com/cheloved/dist-compile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=gnc&theme=transparent)](https://github.com/Cheloved/gnc)
 
 <!--
 **re-roll/re-roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
