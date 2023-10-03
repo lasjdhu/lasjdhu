@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1>Hi there 👋</h1>
 
 ### My name is Dmitrii<br/>I am a student at Brno University of Technologies
@@ -11,6 +13,7 @@
 ### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>made for a better configuration of `distcc` smart distributor of compiling tasks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=gnc&theme=transparent)](https://github.com/Cheloved/gnc)
 
+</div>
 <!--
 **re-roll/re-roll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
