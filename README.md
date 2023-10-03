@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 ### My name is Dmitrii<br/>I am a student at Brno University of Technologies
 
@@ -8,7 +8,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=stars" />
 </a>
 
-### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>for a better configuration of `distcc` smart distributor of compiling tasks
+### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>made for a better configuration of `distcc` smart distributor of compiling tasks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=gnc&theme=transparent)](https://github.com/Cheloved/gnc)
 
 <!--
