@@ -8,7 +8,10 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=stars" />
 </a>
 
-### 🔭 I’m currently working on an open source dynamic hub of hosts<br/>made for a better configuration of `distcc` smart distributor of compiling tasks
+### ⚡ Advent of Code 2023 in progress...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasjdhu&repo=advent-of-code&theme=transparent)](https://github.com/lasjdhu/advent-of-code)
+
+### 🔭 I’m also working on an open source dynamic hub of hosts<br/>made for a better configuration of `distcc` smart distributor of compiling tasks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheloved&repo=gnc&theme=transparent)](https://github.com/Cheloved/gnc)
 
 <!--
