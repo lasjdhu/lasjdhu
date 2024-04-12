@@ -7,7 +7,7 @@
 ### 🤔 My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=stars" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&include_all_commits=true&hide=stars" />
   <br />
   <br />
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasjdhu&theme=transparent&layout=compact" />
