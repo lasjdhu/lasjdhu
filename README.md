@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-### My name is Dmitrii<br/>I am a student at Brno University of Technologies
+### My name is Dmitrii
+- Front-end developer at Masaryk University
+- Information Technology student at Brno University of Technology
 
 ### 🤔 My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=stars" />
+  <br />
+  <br />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasjdhu&theme=transparent&layout=compact" />
 </a>
 
 <!--
