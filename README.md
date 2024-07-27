@@ -10,7 +10,7 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=stars" />
   <br />
   <br />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasjdhu&theme=transparent&layout=compact&exclude_repo=university-projects" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasjdhu&theme=transparent&layout=compact&exclude_repo=university-projects,cane-client" />
 </a>
 
 <!--
