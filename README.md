@@ -1,4 +1,5 @@
-### My name is Dmitrii
+### Hi there
+### My name is Dmitrii and I am
 - Front-end developer at Masaryk University
 - Information Technology student at Brno University of Technology
 
