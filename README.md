@@ -5,7 +5,7 @@
 
 ### You can check out [github-roaster](https://github-roast.pages.dev/) commentary on this profile before diving in
 
-> Dmitrii, my dude, your GitHub profile should come with a warning label for anyone stumbling across it. No bio, no company, no location—are you trying to be a ghost or just testing if anyone notices? With a staggering three followers (too bad you can't follow yourself to try to inflate those numbers), your social media presence is barely a whisper in the vast void of GitHub.
+> Dmitrii, my dude, your GitHub profile should come with a warning label for anyone stumbling across it. No bio, no company, no location — are you trying to be a ghost or just testing if anyone notices? With a staggering three followers (too bad you can't follow yourself to try to inflate those numbers), your social media presence is barely a whisper in the vast void of GitHub.
 >
 > Your "portfolio" web page has more open issues than stars—it’s like you dropped a project and forgot to pick it back up. The repos you created sound about as exciting as watching paint dry. Conway's Game of Life? More like "Conway's Game of Last Resort," because it surely isn't generating any buzz. Is that a Fullstack To-Do app, or are you just to-do-ing your best at collecting dust?
 >
