@@ -2,7 +2,7 @@
 
 I'm a passionate Software Developer with a love for building dynamic, responsive, and user-friendly applications.
 
-## About Me 🌐
+## About Me 👤
 
 - **Frontend Developer** at Masaryk University's Institute of Computer Science 
 - **Information Technology student** at Brno University of Technology
@@ -14,7 +14,7 @@ I'm a passionate Software Developer with a love for building dynamic, responsive
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** Webpack, Vite, Jest, Cypress, Postman
 
-## Contacts ✉️
+## Connect with Me 📬
 
 - **Have a quick question or feedback?**<br />
   Leave me a brief message on my [Web page](https://dmitrii-ivanushkin.software/contact) and I'll get back to you as soon as I can.
