@@ -1,6 +1,6 @@
-👋 Hi there, I'm Dmitrii Ivanushkin.
+## 👋 Hi there
 
-I'm a passionate Software Developer with a love for building dynamic, responsive, and user-friendly applications.
+My name is Dmitrii Ivanushkin. I'm a passionate Software Developer with a love for building dynamic, responsive, and user-friendly applications.
 
 ## About Me 👤
 
@@ -10,7 +10,8 @@ I'm a passionate Software Developer with a love for building dynamic, responsive
 ## Key Technologies & Tools ⚒️
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Redux, Zustand, Material UI, TailwindCSS
+- **Frameworks:** React, React Native
+- **Libraries:** Redux, Zustand, Material UI, TailwindCSS
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** Webpack, Vite, Jest, Cypress, Postman
 
