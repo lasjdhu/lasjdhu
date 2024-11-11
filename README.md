@@ -10,15 +10,11 @@ My name is Dmitrii Ivanushkin. I'm a passionate Software Developer with a love f
 ## Key Technologies & Tools ⚒️
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frameworks:** React, React Native
+- **Frameworks:** React, React Native, Django
 - **Libraries:** Redux, Zustand, Material UI, TailwindCSS
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** Webpack, Vite, Jest, Cypress, Postman
 
 ## Connect with Me 📬
 
-- **Have a quick question or feedback?**<br />
-  Leave me a brief message on my [Web page](https://dmitrii-ivanushkin.software/contact) and I'll get back to you as soon as I can.
-
-- **Offering a professional opportunity?**<br />
-  Feel free to reach out via [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin) for career-related inquiries or networking.
+ Feel free to reach out via [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
