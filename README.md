@@ -15,6 +15,10 @@ My name is Dmitrii Ivanushkin. I'm a passionate Software Developer with a love f
 - **Version Control:** Git, GitHub, Gitlab
 - **Tools:** Webpack, Vite, Jest, Cypress, Postman
 
+## Some stats 📊
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lasjdhu&theme=transparent)](https://git.io/streak-stats)
+
 ## Connect with Me 📬
 
  Feel free to reach out via [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
