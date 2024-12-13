@@ -17,7 +17,7 @@ My name is Dmitrii Ivanushkin. I'm a passionate Software Developer with a love f
 
 ## Some stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-chi.vercel.app?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
 
 ## Connect with Me 📬
 
