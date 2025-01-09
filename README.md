@@ -1,16 +1,29 @@
-## 👋 Hi there
+# 👋 Hi there
 
-My name is Dmitrii Ivanushkin. I'm a passionate Software Developer with a love for building dynamic, responsive, and user-friendly applications.
+I am a developer with a passion for frontend. I have experience with various technologies and frameworks specializing in modern web and mobile applications.
 
-## About Me 👤
+## 🧑‍💻 About Me
 
 - **Frontend Developer** at Masaryk University's Institute of Computer Science 
 - **Information Technology student** at Brno University of Technology
 
-## Some stats 📊
+
+## 🖱️ Technical Expertise
+
+- **Frontend Core**<br/>
+  JavaScript, TypeScript, HTML, CSS, Tailwind, Redux, Zustand
+
+- **Web Specific**<br/>
+  React, Next.js, Astro, Three.js, MUI
+
+- **Mobile Specific**<br/>
+  Expo, React Native, Java, Gluestack UI
+
+## ⭐ Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
 
-## Connect with Me 📬
+## 🔗 Contact me
 
- Feel free to reach out via [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
+- Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
+- Leave me a message in [my contact form](https://dmitrii.online)
