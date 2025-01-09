@@ -23,7 +23,7 @@ I am a developer with a passion for frontend. I have experience with various tec
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
 
-## 🔗 Contact me
+## ✉️ Contact me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
 - Leave me a message in [my contact form](https://dmitrii.online)
