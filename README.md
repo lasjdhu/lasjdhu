@@ -19,11 +19,11 @@ I am a developer with a passion for frontend. I have experience with various tec
 - **Mobile Specific**<br/>
   Expo, React Native, Java, Gluestack UI
 
-## ⭐ Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
-
 ## ✉️ Contact me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
 - Leave me a message in [my contact form](https://dmitrii.online/contact)
+
+## ⭐ Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
