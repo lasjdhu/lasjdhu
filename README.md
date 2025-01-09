@@ -26,4 +26,4 @@ I am a developer with a passion for frontend. I have experience with various tec
 ## ✉️ Contact me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
-- Leave me a message in [my contact form](https://dmitrii.online)
+- Leave me a message in [my contact form](https://dmitrii.online/contact)
