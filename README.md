@@ -7,18 +7,6 @@ I am a software developer with a passion for frontend. I have experience with va
 - **Frontend Developer** at Masaryk University's Institute of Computer Science 
 - **Information Technology student** at Brno University of Technology
 
-
-## 🖱️ Technical Expertise
-
-- **Frontend Core**<br/>
-  JavaScript, TypeScript, HTML, CSS, Tailwind, Redux, Zustand
-
-- **Web Specific**<br/>
-  React, Next.js, Astro, Three.js, MUI
-
-- **Mobile Specific**<br/>
-  Expo, React Native, Java, Gluestack UI
-
 ## ✉️ Contact me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
