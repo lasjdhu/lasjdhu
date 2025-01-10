@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I am a developer with a passion for frontend. I have experience with various technologies and frameworks specializing in modern web and mobile applications.
+I am a software developer with a passion for frontend. I have experience with various technologies and frameworks specializing in modern web and mobile applications.
 
 ## 🧑‍💻 About Me
 
