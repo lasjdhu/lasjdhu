@@ -1,6 +1,7 @@
 # 👋 Hi there
 
-I am a software developer with a passion for frontend. I have experience with various technologies and frameworks specializing in modern web and mobile applications.
+I am a **software engineer** who loves **front-end** development.<br/>
+I specialize in making modern **web** and **mobile** apps and have experience with various technologies and frameworks. 
 
 ## 🧑‍💻 About Me
 
@@ -14,4 +15,4 @@ I am a software developer with a passion for frontend. I have experience with va
 
 ## ⭐ Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=dark-minimalist)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=one-dark-pro)](https://git.io/streak-stats)
