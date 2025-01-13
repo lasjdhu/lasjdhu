@@ -15,4 +15,5 @@ I specialize in making modern **web** and **mobile** apps and have experience wi
 
 ## ⭐ Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=one-dark-pro)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=lasjdhu&theme=transparent)](https://git.io/streak-stats)--!>
