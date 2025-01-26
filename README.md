@@ -15,7 +15,7 @@ I specialize in making modern **web** and **mobile** apps and have experience wi
 
 ## ⭐ Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=lasjdhu&theme=transparent" alt="GitHub Streak" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" alt="GitHub Stats" width="550px" />
+  <img src="https://streak-stats.demolab.com/?user=lasjdhu&theme=transparent" alt="GitHub Streak" width="550px" />
 </p>
