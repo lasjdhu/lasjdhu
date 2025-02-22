@@ -1,8 +1,5 @@
 # 👋 Hi there
 
-I am a **software engineer** who loves **front-end** development.<br/>
-I specialize in making modern **web** and **mobile** apps and have experience with various technologies and frameworks.
-
 ## 🧑‍💻 About Me
 
 - **Front-end Developer** at Masaryk University's Institute of Computer Science 
