@@ -1,5 +1,7 @@
 # 👋 Hi there
 
+My name is Dmitrii and I am a software engineer
+
 ## 🧑‍💻 About Me
 
 - **Front-end Developer** at Masaryk University's Institute of Computer Science 
