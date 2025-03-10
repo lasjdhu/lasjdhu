@@ -1,7 +1,5 @@
 # 👋 Hi there
 
-My name is Dmitrii and I am a software engineer
-
 ## 🧑‍💻 About Me
 
 - **Front-end Developer** at Masaryk University's Institute of Computer Science 
@@ -14,7 +12,4 @@ My name is Dmitrii and I am a software engineer
 
 ## ⭐ Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" alt="GitHub Stats" height="160px" />
-  <img src="https://streak-stats.demolab.com/?user=lasjdhu&theme=transparent" alt="GitHub Streak" height="160px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" alt="GitHub Stats" height="160px" />
