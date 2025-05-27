@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-- **Front-end Developer** at Masaryk University's Institute of Computer Science 
+- **Front-end Developer** at Innovis
 - **Information Technology student** at Brno University of Technology
 
 ## ✉️ Contact me
