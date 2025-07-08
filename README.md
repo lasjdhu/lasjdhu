@@ -14,4 +14,4 @@ I'm Dmitrii. I specialize in making modern web and mobile apps and have experien
 
 ## ⭐ Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent" alt="GitHub Stats" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=lasjdhu&theme=transparent&hide=contribs" alt="GitHub Stats" height="160px" />
