@@ -1,7 +1,3 @@
-# 👋 Hi there
-
-I'm Dmitrii. I specialize in making modern web and mobile apps and have experience with various technologies and frameworks
-
 ## 🧑‍💻 About Me
 
 - **Front-end Developer** at Innovis
