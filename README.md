@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-- **Front-end Developer** at Innovis
+- **Front-end Architect** at Innovis
 - **Information Technology student** at Brno University of Technology
 
 ## ✉️ Contact me
