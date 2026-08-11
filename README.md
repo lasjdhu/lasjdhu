@@ -6,4 +6,4 @@
 ## ✉️ Contact me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/dmitrii-ivanushkin)
-- Leave me a message in [my contact form](https://dmitrii.online/contact)
+- Leave me a message in [my contact form](https://dmitrii.online)
