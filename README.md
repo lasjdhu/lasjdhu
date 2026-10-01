@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-- **Front-end Engineer & Architect** at Innovis
+- **Front-end Engineer & Architect** at M2C
 - **Information Technology student** at Brno University of Technology
 
 ## ✉️ Contact me
